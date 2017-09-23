@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PoloProducts>
+  <group>
+    <name>ECOSTRUM</name>
+    <group>
+      <name>DownLight</name>
+      <product>
+        <kod1С>71809</kod1С>
+        <name>Світильник світодіодний DownLight 6W вбудований квадрат</name>
+        <model>DLS-A-6</model>
+        <price>1.75</price>
+      </product>
+      <product>
+        <kod1С>71807</kod1С>
+        <name>Світильник світодіодний DownLight 12W вбудоване коло</name>
+        <model>DLR-A-12</model>
+        <price>2.65</price>
+      </product>
+      <product>
+        <kod1С>71810</kod1С>
+        <name>Світильник світодіодний DownLight 12W вбудований квадрат</name>
+        <model>DLS-A-12</model>
+        <price>2.76</price>
+      </product>
+      <product>
+        <kod1С>71813</kod1С>
+        <name>Світильник світодіодний DownLight 12W накладне коло</name>
+        <model>DLR-B-12</model>
+        <price>3.32</price>
+      </product>
+      <product>
+        <kod1С>71816</kod1С>
+        <name>Світильник світодіодний DownLight 12W накладний квадрат</name>
+        <model>DLS-B-12</model>
+        <price>3.57</price>
+      </product>
+      <product>
+        <kod1С>71814</kod1С>
+        <name>Світильник світодіодний DownLight 18W накладне коло</name>
+        <model>DLR-B-18</model>
+        <price>4.44</price>
+      </product>
+      <product>
+        <kod1С>71806</kod1С>
+        <name>Світильник світодіодний DownLight 6W вбудоване коло</name>
+        <model>DLR-A-6</model>
+        <price>1.53</price>
+      </product>
+      <product>
+        <kod1С>71812</kod1С>
+        <name>Світильник світодіодний DownLight 6W накладне коло</name>
+        <model>DLR-B-6</model>
+        <price>2.14</price>
+      </product>
+      <product>
+        <kod1С>71815</kod1С>
+        <name>Світильник світодіодний DownLight 6W накладний квадрат</name>
+        <model>DLS-B-6</model>
+        <price>2.30</price>
+      </product>
+    </group>
+  </group>
+</PoloProducts>
