@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PoloProducts>
+  <group>
+    <name>ECOSTRUM</name>
+    <group>
+      <name>DownLight</name>
+      <product>
+        <kod1С>71809</kod1С>
+        <name>Світильник світодіодний DownLight 6W вбудований квадрат</name>
+        <model>DLS-A-6</model>
+        <ostatok>116</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>1.75</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>1.77</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>1.72</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71807</kod1С>
+        <name>Світильник світодіодний DownLight 12W вбудоване коло</name>
+        <model>DLR-A-12</model>
+        <ostatok>3</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.65</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.68</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.6</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71810</kod1С>
+        <name>Світильник світодіодний DownLight 12W вбудований квадрат</name>
+        <model>DLS-A-12</model>
+        <ostatok>266</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.76</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.79</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.71</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71813</kod1С>
+        <name>Світильник світодіодний DownLight 12W накладне коло</name>
+        <model>DLR-B-12</model>
+        <ostatok>221</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.32</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.35</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.25</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71816</kod1С>
+        <name>Світильник світодіодний DownLight 12W накладний квадрат</name>
+        <model>DLS-B-12</model>
+        <ostatok>221</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.57</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.61</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71806</kod1С>
+        <name>Світильник світодіодний DownLight 6W вбудоване коло</name>
+        <model>DLR-A-6</model>
+        <ostatok>225</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>1.53</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>1.55</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>1.5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71812</kod1С>
+        <name>Світильник світодіодний DownLight 6W накладне коло</name>
+        <model>DLR-B-6</model>
+        <ostatok>114</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.14</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.16</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.1</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71815</kod1С>
+        <name>Світильник світодіодний DownLight 6W накладний квадрат</name>
+        <model>DLS-B-6</model>
+        <ostatok>383</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.3</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.32</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.25</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Лампы энергосберегающие Ecostrum</name>
+    </group>
+    <group>
+      <name>Люминисцентные лампы</name>
+      <product>
+        <kod1С>71040</kod1С>
+        <name>Люмінісцентна лампа T5 21W 6400K G5</name>
+        <model>LL521-57</model>
+        <ostatok>17</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>0.79</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>0.83</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>5.75</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>0.56</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71041</kod1С>
+        <name>Люмінісцентна лампа T5 28W 6400K G5</name>
+        <model>LL528-58</model>
+        <ostatok>494</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>0.9</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>0.92</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>6.51</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>0.63</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Панели</name>
+      <product>
+        <kod1С>71973</kod1С>
+        <name>СВІТЛОДІОДНА ПАНЕЛЬ PRISMATIK IP20 36W 3000lm 4000 К</name>
+        <model>LED-595-20 36W 3000/4000</model>
+        <ostatok>681</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.18</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.74</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.04</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71976</kod1С>
+        <name>СВІТЛОДІОДНА ПАНЕЛЬ PRISMATIK IP20 36W 3000lm 6000К</name>
+        <model>LED-595-20 36W 3000/6000</model>
+        <ostatok>3930</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.18</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.74</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.04</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71975</kod1С>
+        <name>СВІТЛОДІОДНА ПАНЕЛЬ PRISMATIK IP20 36W 3200lm 4000К</name>
+        <model>LED-595-20 36W 3200/4000</model>
+        <ostatok>395</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.4</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.98</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.25</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71977</kod1С>
+        <name>СВІТЛОДІОДНА ПАНЕЛЬ PRISMATIK IP20 36W 3200lm 6000 К</name>
+        <model>LED-595-20 36W 3200/6000</model>
+        <ostatok>746</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.4</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.98</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.25</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Прожекторы галогенные Ecostrum</name>
+      <product>
+        <kod1С>70016</kod1С>
+        <name>Прожектор галогенний РН107/ ІР 44 J189 1000 W білий</name>
+        <model>РН 107</model>
+        <ostatok>784</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.06</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.15</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>91.5</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>70015</kod1С>
+        <name>Прожектор галогенний РН108/ ІР 44 J189 1000 W чорний</name>
+        <model>РН 108</model>
+        <ostatok>524</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.06</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.15</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>91.5</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Сад огород</name>
+      <product>
+        <kod1С>71413</kod1С>
+        <name>Світильник діодний ТМ "ECOSTRUM" на сонячних батареях "Антуриум" чорний</name>
+        <model>91062870</model>
+        <ostatok>29</ostatok>
+        <prices>
+          <price3Name>Акция</price3Name>
+          <price3Value>3.13</price3Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71411</kod1С>
+        <name>Світильник діодний ТМ "ECOSTRUM" на сонячних батареях "Свіча на вітру" білий</name>
+        <model>91062867</model>
+        <ostatok>4132</ostatok>
+        <prices>
+          <price3Name>Акция</price3Name>
+          <price3Value>1.55</price3Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71410</kod1С>
+        <name>Світильник діодний ТМ "ECOSTRUM" на сонячних батареях "Свіча на вітру" чорний</name>
+        <model>91062868</model>
+        <ostatok>4184</ostatok>
+        <prices>
+          <price3Name>Акция</price3Name>
+          <price3Value>1.66</price3Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71420</kod1С>
+        <name>Світильник діодний ТМ "ECOSTRUM" на сонячних батареях "Сфера" білий</name>
+        <model>91062877</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price3Name>Акция</price3Name>
+          <price3Value>13.48</price3Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71399</kod1С>
+        <name>Світильник діодний ТМ"Ecostrum" на сонячних батареях "Сова"</name>
+        <model>TFP13005-3</model>
+        <ostatok>7</ostatok>
+        <prices>
+          <price3Name>Акция</price3Name>
+          <price3Value>1.05</price3Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Светильники LED</name>
+      <product>
+        <kod1С>71304</kod1С>
+        <name>Прожектор діодний 20w</name>
+        <model>LED - 21/20</model>
+        <ostatok>7</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.5</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.83</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>96.63</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.19</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71305</kod1С>
+        <name>Прожектор діодний 30w</name>
+        <model>LED - 31/30</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.38</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.56</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>117.24</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.25</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71306</kod1С>
+        <name>Прожектор діодний 50w</name>
+        <model>LED - 51/50</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>12.14</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>12.5</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>160.45</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>11.9</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72049</kod1С>
+        <name>Прожектор LED 20-1400/NIS/CL</name>
+        <model>LED 20-1400 / NIS/CL</model>
+        <ostatok>1288</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>4.4</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72054</kod1С>
+        <name>Прожектор LED 30-2000/IS/FJ</name>
+        <model>LED 30-2000 /IS/FJ</model>
+        <ostatok>117</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.38</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.88</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.25</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72050</kod1С>
+        <name>Прожектор LED 30-2000/NIS/CL</name>
+        <model>LED 30-2000 / NIS/CL</model>
+        <ostatok>4313</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.67</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.94</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5.4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72056</kod1С>
+        <name>Прожектор LED 30-2000/NIS/FJ</name>
+        <model>LED 30-2000 /NIS/FJ</model>
+        <ostatok>7</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.67</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.94</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5.4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72055</kod1С>
+        <name>Прожектор LED 50-3200/IS/FJ</name>
+        <model>LED 50-3200/ IS/FJ</model>
+        <ostatok>799</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.85</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>8.47</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.7</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72051</kod1С>
+        <name>Прожектор LED 50-3200/NIS/CL</name>
+        <model>LED 50-3200 / NIS/CL</model>
+        <ostatok>4904</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.3</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.65</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.95</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72057</kod1С>
+        <name>Прожектор LED 50-3200/NIS/FJ</name>
+        <model>LED 50-3200/ NIS/FJ</model>
+        <ostatok>1634</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.3</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.65</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.95</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72082</kod1С>
+        <name>Прожектор LED 50-3500/IS/CL</name>
+        <model>LED 50-3500/ IS/CL</model>
+        <ostatok>338</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>9.69</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>10.45</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>9.5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72053</kod1С>
+        <name>Прожектор LED 50-3500/NIS/FJ</name>
+        <model>LED 50-3500/ IS/FJ</model>
+        <ostatok>295</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>9.69</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>10.45</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>9.5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71841</kod1С>
+        <name>Прожектор діодний 20W 1400 /NIS</name>
+        <model>LED 20-1400 / NIS</model>
+        <ostatok>65</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>4.4</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71853</kod1С>
+        <name>Прожектор діодний ЕСО SMD 30W 1800 Lm</name>
+        <model>LED EСO 30-1800</model>
+        <ostatok>1334</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.79</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.17</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4.7</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71854</kod1С>
+        <name>Прожектор діодний ЕСО SMD 50W 2750 Lm</name>
+        <model>LED EСO 50-2750</model>
+        <ostatok>1411</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.12</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.6</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71792</kod1С>
+        <name>Світильник діодний 4x10w</name>
+        <model>LED- 4x10</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>8.99</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>9.44</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>8.56</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71389</kod1С>
+        <name>Світильник діодний 4x8w(с перфорированными вставками)</name>
+        <model>LED- PANEL 4x8</model>
+        <ostatok>5</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>8.35</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>8.76</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.95</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71158</kod1С>
+        <name>Світильник діодний 3w круг чорний</name>
+        <model>LED-1002</model>
+        <ostatok>15</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.69</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.82</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>85</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.56</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71163</kod1С>
+        <name>Світильник діодний 6w круг білий з решіткою</name>
+        <model>LED-1251</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>11.06</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>11.49</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>146</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>8.51</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71804</kod1С>
+        <name>Світильник 18W світодіодний балка ІР65</name>
+        <model>ip65led line 18W балка</model>
+        <ostatok>4</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.32</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.82</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71851</kod1С>
+        <name>Світильник IP 65 EСO TRI-PROOF Led Line 18W 1650 Lm</name>
+        <model>EСO led line 18-1650 уз</model>
+        <ostatok>1313</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.08</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>4.4</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72079</kod1С>
+        <name>Світильник IP 65 EСO TRI-PROOF Led Line 18W 1650 Lm 4001</name>
+        <model>EСO led line 18-1650/400</model>
+        <ostatok>922</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.61</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5.1</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72080</kod1С>
+        <name>Світильник IP 65 EСO TRI-PROOF Led Line 36W 3350 Lm 4001</name>
+        <model>EСO led line 36-3350/400</model>
+        <ostatok>331</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.83</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.37</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.7</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71971</kod1С>
+        <name>Світильник LED IP65 GS 2х600 8шт\ящ</name>
+        <model>LED ІР 65 GS 2х600</model>
+        <ostatok>142</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.59</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>4.95</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4.5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71822</kod1С>
+        <name>Світильник LED вологозахищений накладний 20w IP65</name>
+        <model>LED IP65 20W</model>
+        <ostatok>294</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.34</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.56</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71823</kod1С>
+        <name>Світильник LED вологозахищений накладний 40w IP65</name>
+        <model>LED IP65 40W</model>
+        <ostatok>83</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>10.4</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>10.71</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>10.2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71857</kod1С>
+        <name>Світильник LED накладний "ЕСО Plazma" F 36W IP20 2800 Lm</name>
+        <model>ECOLED F36-20-2800 Plazm</model>
+        <ostatok>1352</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.95</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.19</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4.85</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71969</kod1С>
+        <name>Світильник LED накладний "ЕСО Plazma" А18W IP20 1500 Lm алюм</name>
+        <model>ECOLED А18-20-1500PlazAl</model>
+        <ostatok>45</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.67</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.85</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.6</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72076</kod1С>
+        <name>Світильник діодний з вимикачем LED T5 10W 6000K</name>
+        <model>LED T5 10W 6000K</model>
+        <ostatok>2580</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.19</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.26</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.15</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72075</kod1С>
+        <name>Світильник діодний з вимикачем LED T5 16W 6000K</name>
+        <model>LED T5 16W 6000K</model>
+        <ostatok>1517</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.71</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.79</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.66</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72074</kod1С>
+        <name>Світильник діодний з вимикачем LED T5 22W 6000K</name>
+        <model>LED T5 22W 6000K</model>
+        <ostatok>341</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.86</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.94</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>72077</kod1С>
+        <name>Світильник діодний з вимикачем LED T5 6W 6000K</name>
+        <model>LED T5 6W 6000K</model>
+        <ostatok>1510</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>1.76</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>1.82</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>1.73</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>70345</kod1С>
+        <name>Світильник меблевий діодний Ecostrum 11w</name>
+        <model>LED-201-12</model>
+        <ostatok>1254</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.52</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.52</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>164.5</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>70343</kod1С>
+        <name>Світильник меблевий діодний Ecostrum 6w</name>
+        <model>LED-201-05</model>
+        <ostatok>155</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>1.56</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>1.61</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>96.5</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>1.53</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>70344</kod1С>
+        <name>Світильник меблевий діодний Ecostrum 9w</name>
+        <model>LED-201-09</model>
+        <ostatok>74</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.22</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.29</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>127.5</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.18</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71837</kod1С>
+        <name>Світильник діодний HIGH BAY COB 100w 7000 Lm/IS</name>
+        <model>HB 8301-100</model>
+        <ostatok>31</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>36.72</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>39.6</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>36</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71836</kod1С>
+        <name>Світильник промисловий арт.НВ 8301-70</name>
+        <model>HB 8301-70</model>
+        <ostatok>48</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>28.56</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>30.8</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>28</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71839</kod1С>
+        <name>Світильник промисловий арт.НВ 8320-100</name>
+        <model>HB 8320-100</model>
+        <ostatok>50</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>62.22</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>67.1</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>61</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71838</kod1С>
+        <name>Світильник промисловий арт.НВ 8320-80</name>
+        <model>HB 8320-80</model>
+        <ostatok>33</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>57.12</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>61.6</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>56</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Светильники баня сауна FARUTTI</name>
+      <product>
+        <kod1С>71961</kod1С>
+        <name>Світильник 60W овал чорний 4002А Frosted Glass B</name>
+        <model>F-1102</model>
+        <ostatok>97</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.04</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Светильники баня,сауна Ecostrum</name>
+      <product>
+        <kod1С>69861</kod1С>
+        <name>Світильник 100W чорний з решіткою у вигляді кола</name>
+        <model>SL-1254</model>
+        <ostatok>259</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>33.7</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68670</kod1С>
+        <name>Світильник 100W коло білий з решіткою</name>
+        <model>SL-1251</model>
+        <ostatok>4</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>33.7</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69852</kod1С>
+        <name>Світильник 100W коло чорний</name>
+        <model>SL-1202</model>
+        <ostatok>5</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>33.7</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68669</kod1С>
+        <name>Світильник 100W коло білий</name>
+        <model>SL-1201</model>
+        <ostatok>356</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>33.7</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68662</kod1С>
+        <name>Світильник 100W овал білий з решіткою</name>
+        <model>SL-1351</model>
+        <ostatok>111</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>30.29</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68663</kod1С>
+        <name>Світильник 100W овал чорний з решіткою</name>
+        <model>SL-1352</model>
+        <ostatok>95</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>30.29</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68667</kod1С>
+        <name>Світильник 60W коло чорний з решіткою</name>
+        <model>SL-1052</model>
+        <ostatok>1339</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>16.2</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68666</kod1С>
+        <name>Світильник 60W коло білий з решіткою</name>
+        <model>SL-1051</model>
+        <ostatok>80</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>16.2</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68657</kod1С>
+        <name>Світильник 60W овал чорний</name>
+        <model>SL-1102</model>
+        <ostatok>43</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>15.9</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68656</kod1С>
+        <name>Світильник 60W овал білий</name>
+        <model>SL-1101</model>
+        <ostatok>187</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>15.9</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68658</kod1С>
+        <name>Світильник 60W овал білий з решіткою</name>
+        <model>SL-1151</model>
+        <ostatok>4</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>15.9</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68659</kod1С>
+        <name>Світильник 60W овал чорний з решіткою</name>
+        <model>SL-1152</model>
+        <ostatok>222</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>15.9</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69859</kod1С>
+        <name>Світильник 60W с козирком чорний</name>
+        <model>SL-1056</model>
+        <ostatok>2</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>17.8</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68660</kod1С>
+        <name>Світильник100W овал білий</name>
+        <model>SL-1301</model>
+        <ostatok>7</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>30.29</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68661</kod1С>
+        <name>Світильник100W овал чорний</name>
+        <model>SL-1302</model>
+        <ostatok>357</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.99</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>30.29</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.8</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Светильники люминесцентные</name>
+      <product>
+        <kod1С>68688</kod1С>
+        <name>Світильник люмінесцентний Ecostrum без лампи 2*36w (пластик. плафон)</name>
+        <model>LF-317-14D</model>
+        <ostatok>452</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.25</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.25</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>56</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68690</kod1С>
+        <name>Світильник люмінесцентний Ecostrum 10w з лампою</name>
+        <model>LF-311-03</model>
+        <ostatok>36</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>3.41</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>3.58</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>25.46</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>3.25</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68696</kod1С>
+        <name>Світильник люмінесцентний Ecostrum 21w з лампою</name>
+        <model>LF-201-09</model>
+        <ostatok>54</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.83</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.06</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>39.86</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5.7</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68697</kod1С>
+        <name>Світильник люмінесцентний Ecostrum 28w з лампою</name>
+        <model>LF-201-12</model>
+        <ostatok>203</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.83</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.06</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>46.94</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5.7</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68684</kod1С>
+        <name>Світильник люмінесцентний Ecostrum без лампи 1*18w (пластик. плафон)</name>
+        <model>LF-317-07</model>
+        <ostatok>351</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.78</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.92</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>30.87</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2.65</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68686</kod1С>
+        <name>Світильник люмінесцентний Ecostrum без лампи 2*18w( с захисною решіткою)</name>
+        <model>LF-317G-07D</model>
+        <ostatok>404</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>4.2</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>4.2</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>43.98</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>68689</kod1С>
+        <name>Світильник люмінесцентний Ecostrum без лампи 2*36w( с захисною решіткою)</name>
+        <model>LF-317G-14D</model>
+        <ostatok>148</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.25</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.25</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>56</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69894</kod1С>
+        <name>Світильник люмінесцентний балка 18w</name>
+        <model>3006-18</model>
+        <ostatok>495</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>1.84</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>1.93</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>1.21</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>1.75</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69895</kod1С>
+        <name>Світильник люмінесцентний балка 36w</name>
+        <model>3006-36</model>
+        <ostatok>1321</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>2.1</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>2.1</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>14.95</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>2</price4Value>
+        </prices>
+      </product>
+    </group>
+    <group>
+      <name>Светильники люминесцентные IP65</name>
+      <product>
+        <kod1С>69871</kod1С>
+        <name>Світильник люмінесцентний IP65 1*18 з електромагнітним баластом</name>
+        <model>LW120MG</model>
+        <ostatok>43</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.09</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.35</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>55.28</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4.85</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>70209</kod1С>
+        <name>Світильник люмінесцентний IP65 1*18 з електромагнітним баластом з металевими
+          фіксаторами
+        </name>
+        <model>LW120MG М</model>
+        <ostatok>324</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.25</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.51</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>59.98</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69876</kod1С>
+        <name>Світильник люмінесцентний IP65 1*18 з ЕПРП</name>
+        <model>LW120EL</model>
+        <ostatok>10</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.09</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>5.35</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>50.16</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>4.85</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71405</kod1С>
+        <name>Світильник люмінесцентний IP65 1*36 з електромагнітним баластом з металевими
+          фіксаторами
+        </name>
+        <model>LW140MG М</model>
+        <ostatok>290</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.51</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.84</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.2</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69875</kod1С>
+        <name>Світильник люмінесцентний IP65 1*36 з ЕПРП</name>
+        <model>LW140EL</model>
+        <ostatok>194</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>6.3</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.62</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>74.77</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>69872</kod1С>
+        <name>Світильник люмінесцентний IP65 2*18 з електромагнітним баластом</name>
+        <model>LW220MG</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.66</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>7.97</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>61.31</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>6.85</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>71446</kod1С>
+        <name>Світильник люмінесцентний IP65 2*18 з ЕПРП з металевими фіксаторами</name>
+        <model>LW220EL М</model>
+        <ostatok>155</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>5.78</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>6.06</price2Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>5.5</price4Value>
+        </prices>
+      </product>
+      <product>
+        <kod1С>70211</kod1С>
+        <name>Світильник люмінесцентний IP65 2*36 з електромагнітним баластом з металевими
+          фіксаторами
+        </name>
+        <model>LW240MG М</model>
+        <ostatok>1</ostatok>
+        <prices>
+          <price1Name>2 $ ОПТ</price1Name>
+          <price1Value>7.88</price1Value>
+          <price2Name>3 $ ОПТ/Розница</price2Name>
+          <price2Value>8.27</price2Value>
+          <price3Name>Акция</price3Name>
+          <price3Value>106.1</price3Value>
+          <price4Name>Дилерская</price4Name>
+          <price4Value>7.5</price4Value>
+        </prices>
+      </product>
+    </group>
+  </group>
+</PoloProducts>

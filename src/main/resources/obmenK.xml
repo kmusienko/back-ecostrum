@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Counterparty>
+    <kod1С>02334</kod1С>
+    <name>АДФ Днепр</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01726</kod1С>
+    <name>"Галицькі контракти" рекламне аг</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01546</kod1С>
+    <name>220 вольт магазин</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01438</kod1С>
+    <name>220 люкс</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01794</kod1С>
+    <name>220 Центр продаж КИЕВ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01453</kod1С>
+    <name>Art-Studio, салон-магазин светот</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01468</kod1С>
+    <name>CDMA сервис</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01762</kod1С>
+    <name>HRC</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01517</kod1С>
+    <name>Led Ukraine</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01740</kod1С>
+    <name>Led4people</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01717</kod1С>
+    <name>Ledsvitlo</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01452</kod1С>
+    <name>Light House магазин светотехники</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01753</kod1С>
+    <name>SvitLed</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02342</kod1С>
+    <name>Авраменко Алексей Алексеевич ФОП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01741</kod1С>
+    <name>Айвенготранс-буд ТОВ</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01623</kod1С>
+    <name>Аксітех ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01607</kod1С>
+    <name>Акцент</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01634</kod1С>
+    <name>Аландарєв Євгеній Володимирович</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01581</kod1С>
+    <name>Андерсс</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02481</kod1С>
+    <name>Антонов ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01604</kod1С>
+    <name>Аркуша ЧП Электросфера</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01896</kod1С>
+    <name>Астра ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01643</kod1С>
+    <name>Аэробуд</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02547</kod1С>
+    <name>Беляева ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01464</kod1С>
+    <name>Биом</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01719</kod1С>
+    <name>БИС ЭЛЕКТРОНИК ООО</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02348</kod1С>
+    <name>Благодійний фонд "МАГІСТР"</name>
+    <meneger>Синявський</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01467</kod1С>
+    <name>Братья Электрики</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01709</kod1С>
+    <name>Буд Импульс ЛТД</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01760</kod1С>
+    <name>Будконтинентсервис</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02473</kod1С>
+    <name>Будмастер ЧП</name>
+    <meneger>Синявський</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01681</kod1С>
+    <name>Будматеріали м-н</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>00755</kod1С>
+    <name>БУДМЕН Гипермаркет</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01804</kod1С>
+    <name>БУДМЕН-ИНТЕР Гипермаркет</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01876</kod1С>
+    <name>БУДРЕСУРС</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01637</kod1С>
+    <name>БУДСТИЛЬ-ЕЛЕКТРОМОНТАЖ, ПП</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01668</kod1С>
+    <name>Ваша Светлость супермаркет света</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01882</kod1С>
+    <name>Вілінчук Г.Г. ФО-П</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01707</kod1С>
+    <name>Вінницька кабельна компанія</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01537</kod1С>
+    <name>Віп-кабель, магазин</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01557</kod1С>
+    <name>Вольт</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01456</kod1С>
+    <name>Воскресенский, торговый дом</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01458</kod1С>
+    <name>Все до лампочки</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02513</kod1С>
+    <name>Выскребенцева ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01569</kod1С>
+    <name>Герженовский ЧП Курчатовский</name>
+    <meneger>Шадчина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02516</kod1С>
+    <name>Гречаная Ирина Валерьевна ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01473</kod1С>
+    <name>Григоренко Александр Дмитриевич</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01914</kod1С>
+    <name>Дебют</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01518</kod1С>
+    <name>Денисюк Роман
+      ФОП
+    </name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01756</kod1С>
+    <name>Дим Дрим торговый центр</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01526</kod1С>
+    <name>Димакс Украина</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01521</kod1С>
+    <name>Диодом</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02013</kod1С>
+    <name>Дихтяр О.Г. ФОП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01672</kod1С>
+    <name>Драченко Віталій Вікторович ФОП</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02336</kod1С>
+    <name>Дрогобицкая ЧП</name>
+    <meneger>Лящин</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01766</kod1С>
+    <name>Дубін Вячеслав Микролайович ФОП</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01559</kod1С>
+    <name>ЕвроДом</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01874</kod1С>
+    <name>ЕК-ОСНОВА</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01636</kod1С>
+    <name>Ексім Холдінг Україна ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02614</kod1С>
+    <name>ЕЛВАС</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02377</kod1С>
+    <name>ЕЛЕКТРО-ІМПУЛЬС ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01600</kod1С>
+    <name>Електро-темп</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01540</kod1С>
+    <name>Електроквартал</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01032</kod1С>
+    <name>Електролавка СПД Пономаренко</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01501</kod1С>
+    <name>Електролюкс Черкассы</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02010</kod1С>
+    <name>Електрон</name>
+    <meneger>Пантелеева</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01710</kod1С>
+    <name>Електросервіс</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02411</kod1С>
+    <name>ЕЛЕКТРОТЕХЦЕНТР ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01641</kod1С>
+    <name>ЕЛКОМ-СЕРВІС, ПНВП</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01519</kod1С>
+    <name>Енергобуд</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01523</kod1С>
+    <name>Енергокомплект</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01879</kod1С>
+    <name>Енергофлагман ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01722</kod1С>
+    <name>ЕСИ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02515</kod1С>
+    <name>Ефимов Василий ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01529</kod1С>
+    <name>Жирко Виктор Викторович</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02591</kod1С>
+    <name>Жукова Тамара Арсеновна ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02001</kod1С>
+    <name>Жуковский Олександр Володимирови</name>
+    <meneger>Пантелеева</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01571</kod1С>
+    <name>Заславец Александр Иванович ЧП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01915</kod1С>
+    <name>Застава</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02469</kod1С>
+    <name>Захарченко Любовь ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02467</kod1С>
+    <name>Ивенина Наташа ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01754</kod1С>
+    <name>Илеком Электротехническая компан</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01470</kod1С>
+    <name>Инжиринг</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02004</kod1С>
+    <name>Ион</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01437</kod1С>
+    <name>Искра ТД</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01771</kod1С>
+    <name>Камінська Оксана Петрівна ФОП</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02483</kod1С>
+    <name>Каряковская Валентина ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01596</kod1С>
+    <name>Каскад</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02370</kod1С>
+    <name>КВАРТАЛ ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01538</kod1С>
+    <name>Киев Обл Энерго</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01536</kod1С>
+    <name>Киев Одессакабель</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01720</kod1С>
+    <name>КИЕВ ПРОЕКТ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01572</kod1С>
+    <name>Киев Строй Резерв</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01592</kod1С>
+    <name>Киевграндэлектро(Юниверсал трейд</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01606</kod1С>
+    <name>Киловат</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01728</kod1С>
+    <name>Кобзар Вадим Валерійович ФОП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02476</kod1С>
+    <name>Кобрисов ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01535</kod1С>
+    <name>Колос-Электро</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01446</kod1С>
+    <name>Комеко Сергій Єгорович ФЛП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01525</kod1С>
+    <name>Компания Абажур</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01515</kod1С>
+    <name>Комтех Полiccя ТОВ</name>
+    <meneger>Пантелеева</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01520</kod1С>
+    <name>Контакт.юа</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02604</kod1С>
+    <name>Кузнецов Сергей ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01731</kod1С>
+    <name>ЛАЙТ КРАФТ ТОВ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02471</kod1С>
+    <name>Литвин Антон ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01650</kod1С>
+    <name>Литвиненко ЧП</name>
+    <meneger>Шадчина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01682</kod1С>
+    <name>Лукаш В.О. ФО-П</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01609</kod1С>
+    <name>Луценко Іра Ігорівна</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01711</kod1С>
+    <name>Люкс Ефект</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01742</kod1С>
+    <name>Люстра-стиль</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02535</kod1С>
+    <name>Майборода Дина Николаевна ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01721</kod1С>
+    <name>МАЙКОМ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01752</kod1С>
+    <name>Майстер</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02482</kod1С>
+    <name>Мандрыкин Александр</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01743</kod1С>
+    <name>МБМ мережа буд. магазинов</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02514</kod1С>
+    <name>Мерешко Виталий ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01745</kod1С>
+    <name>Мир Зелени</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01608</kod1С>
+    <name>Модерн Експо</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02475</kod1С>
+    <name>Мойса Сергей ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02562</kod1С>
+    <name>Нагрис ЧПФ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01457</kod1С>
+    <name>Наш электрик, сеть магазинов</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01685</kod1С>
+    <name>Неоэлектро</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02484</kod1С>
+    <name>Никоненко Николай ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01738</kod1С>
+    <name>НІОН 2004</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01504</kod1С>
+    <name>Новiков Геннадiй Анатолiйович</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01647</kod1С>
+    <name>Нумино</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01591</kod1С>
+    <name>Оазис Лайт</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01445</kod1С>
+    <name>Огонек, магазин электротехники</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01881</kod1С>
+    <name>Олещенко Вячеслав Анатолійович Ф</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01727</kod1С>
+    <name>Ольвія</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02611</kod1С>
+    <name>Ольховий Альберт Анатолійович ФО</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02465</kod1С>
+    <name>Ольшанский Игорь ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02166</kod1С>
+    <name>Оптик</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01594</kod1С>
+    <name>ОСББ "КВАРТАЛ ДРУЖБИ"</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02598</kod1С>
+    <name>ОСББ "Троянда-12"</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02590</kod1С>
+    <name>ОСББ "Чумаченка 36"</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01603</kod1С>
+    <name>ОСББ "Чумаченка 38"</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01439</kod1С>
+    <name>Осирис</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01499</kod1С>
+    <name>Патриот Технолоджис ТОВ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01553</kod1С>
+    <name>Перша Сервісна Компанія ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01610</kod1С>
+    <name>Пінчук Алла Петрівна</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02466</kod1С>
+    <name>Приходько Ирина ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01649</kod1С>
+    <name>Промконтакт</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01890</kod1С>
+    <name>Промтехсервіс Е-П-К</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02571</kod1С>
+    <name>Промтехснаб-Днепр НВП ООО</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01474</kod1С>
+    <name>ПрофиЭлектро</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01551</kod1С>
+    <name>Разумный $</name>
+    <meneger>Сухойван</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01903</kod1С>
+    <name>Реконструкция</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01530</kod1С>
+    <name>Розумный дим</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01886</kod1С>
+    <name>Рубио</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01779</kod1С>
+    <name>С-Груп Електро ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02252</kod1С>
+    <name>Савельева ЧП</name>
+    <meneger>Круть</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01675</kod1С>
+    <name>Самойлович Владимир Александрови</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01734</kod1С>
+    <name>Санаторий</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01723</kod1С>
+    <name>СВЕТ ЛЕД</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02430</kod1С>
+    <name>СВЕТ ПП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01730</kod1С>
+    <name>СВЕТЛО ТЕХ БН</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01582</kod1С>
+    <name>Светлотек</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01580</kod1С>
+    <name>Светокомплект</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01733</kod1С>
+    <name>Свит Свитла ТОВ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01693</kod1С>
+    <name>Світло Імпорт Украина Компания</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02005</kod1С>
+    <name>Світло-Енерго ПП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01524</kod1С>
+    <name>СвітлоТехніка</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01425</kod1С>
+    <name>Север</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01200</kod1С>
+    <name>Север ТОВ ВКФ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01505</kod1С>
+    <name>СЕВКАБЕЛЬЭЛЕКТРО ТОВ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02558</kod1С>
+    <name>Семкин Александр ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01532</kod1С>
+    <name>Сервал Групп</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01765</kod1С>
+    <name>Сига Трейд</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01718</kod1С>
+    <name>Символ ВКФ</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01534</kod1С>
+    <name>Синергия-2</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01522</kod1С>
+    <name>Скиба Сергій Олександрович</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01739</kod1С>
+    <name>Сова Электро</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01635</kod1С>
+    <name>Соловейчик Людмила Александровна</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01803</kod1С>
+    <name>София СК ООО</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01512</kod1С>
+    <name>Стандарт Будівельний</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01555</kod1С>
+    <name>Стар Фудс ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01744</kod1С>
+    <name>Стем-Авто ООО</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02158</kod1С>
+    <name>Стройко ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01761</kod1С>
+    <name>СТС</name>
+    <meneger>Админ</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02610</kod1С>
+    <name>Ступка Денис ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02563</kod1С>
+    <name>СУМСЬКА ПАЛЯНИЦЯ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01585</kod1С>
+    <name>Сучасні оздоблювальні технології</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02160</kod1С>
+    <name>ТАКТ 2011</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01732</kod1С>
+    <name>Тернопільбуд</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01531</kod1С>
+    <name>Технология для дома</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01755</kod1С>
+    <name>Технооптим</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01528</kod1С>
+    <name>Томак</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01640</kod1С>
+    <name>УКРКАБЕЛЬЗБУТ, ПП</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01556</kod1С>
+    <name>Укрсвітло</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01645</kod1С>
+    <name>УкрЭнергоАльянс</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01469</kod1С>
+    <name>Укрэнергогарант</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01746</kod1С>
+    <name>УМФК ТОВ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01639</kod1С>
+    <name>УНІКОМ, МПВКП</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01558</kod1С>
+    <name>ФАРАДЕЙ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02349</kod1С>
+    <name>Феникс 7 плюс ОСББ</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02485</kod1С>
+    <name>Фёдоров ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02304</kod1С>
+    <name>ФІРМА "БУДСІТІ"</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01527</kod1С>
+    <name>Флагман</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01894</kod1С>
+    <name>Фонд Модер. Дніпропетровщини</name>
+    <meneger>Шадчина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01454</kod1С>
+    <name>Фортем, торгово-монтажная фирма</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02266</kod1С>
+    <name>Хамходько</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02606</kod1С>
+    <name>Хелемендик ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02575</kod1С>
+    <name>Худолей Никола</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02468</kod1С>
+    <name>Худолей Сергей ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01748</kod1С>
+    <name>Центр-Монтаж-Энерго ПП</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01638</kod1С>
+    <name>ЧЕРНІВЦІ-ЕЛЕКТРОМОНТАЖ, ПП</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02470</kod1С>
+    <name>Шестковский ЧП</name>
+    <meneger>Притула</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02423</kod1С>
+    <name>Шкода ЧП</name>
+    <meneger>Синявський</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01539</kod1С>
+    <name>ШУЛАКОВА ЮЛІЯ ОЛЕКСАНДРІВНА</name>
+    <meneger>Пантелеева</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01797</kod1С>
+    <name>Щорс М.Ю. ФО-П</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01684</kod1С>
+    <name>Эвелан, строительная компания</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01646</kod1С>
+    <name>ЭлБиДи Групп</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01471</kod1С>
+    <name>Электро групп</name>
+    <meneger>Пантелеева</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01749</kod1С>
+    <name>Электро Маркет</name>
+    <meneger>Админ</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01724</kod1С>
+    <name>ЭЛЕКТРО МИР</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01432</kod1С>
+    <name>Электро стандарт</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01440</kod1С>
+    <name>ЭлектроProject(интернет магазин)</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01451</kod1С>
+    <name>Электробум</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01747</kod1С>
+    <name>Электромаркет</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01533</kod1С>
+    <name>Электромонтаж</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01548</kod1С>
+    <name>Электромонтажтех</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02387</kod1С>
+    <name>ЭЛЕКТРОСВИТ ПЛЮС</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01901</kod1С>
+    <name>Элкор Корпорация</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01441</kod1С>
+    <name>Элтекс</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01466</kod1С>
+    <name>Элтех</name>
+    <meneger>Федотова</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01578</kod1С>
+    <name>Энекст Украина</name>
+    <meneger>Кравец</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01673</kod1С>
+    <name>Энергоопт ПП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01547</kod1С>
+    <name>Юг-Агро-Сервис-2004 ЧП</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01908</kod1С>
+    <name>Юнел</name>
+    <meneger>Янина</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02275</kod1С>
+    <name>Юрченко ФОП Умный свет</name>
+    <meneger>Оксана</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>02367</kod1С>
+    <name>Юшко ЧП</name>
+    <meneger>Синявський</meneger>
+  </Counterparty>
+  <Counterparty>
+    <kod1С>01784</kod1С>
+    <name>ЯНЧЕНКО АЛЬОНА ВІКТОРІВНА</name>
+    <meneger>Пантелеева</meneger>
+  </Counterparty>
+</root>

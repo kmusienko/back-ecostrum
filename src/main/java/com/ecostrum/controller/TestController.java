@@ -61,11 +61,12 @@ public class TestController {
   @GetMapping(value = "/getxmlastext")
   public String getXmlLikeString() throws IOException {
     String s = "";
-    Path path = Paths.get(System.getProperty("user.dir") + "/src/main/resources/products.xml");
+    Path path = Paths.get(System.getProperty("user.dir") + "/src/main/resources/obmenT.xml");
     List<String> lines = Files.readAllLines(path);
     for (String line : lines) {
       s += line;
     }
+    System.out.println(s);
     return s;
   }
 
